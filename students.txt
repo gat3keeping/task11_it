@@ -1,0 +1,4 @@
+Dasha,20,Female
+Ivan,22,Male
+Sasha,21,Male
+Diana,23,Female
